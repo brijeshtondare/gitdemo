@@ -1,0 +1,4 @@
+py=[123,12,34,43]
+
+for i in py:
+	print(i)
